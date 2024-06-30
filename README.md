@@ -3,6 +3,9 @@
 This project is a practical introduction to using OAuth with the Spotify API, utilizing the authorization code flow with
 PKCE (Proof Key for Code Exchange).
 
+![Screenshot 1](./src/assets/screenshot1.png)
+![Screenshot 2](./src/assets/screenshot2.png)
+
 ## Prerequisites
 
 Before starting, ensure you have installed:
@@ -37,6 +40,14 @@ pnpm install
 # or
 bun install
 ```
+
+## Setting Up Environment Variables
+
+To configure the necessary environment variables for the project, copy the `.env.sample` file located at the root of the
+project and rename it to `.env`. Modify the values according to your needs. Remember not to commit the `.env` file to
+the remote repository for security reasons.
+
+After modifying the values, remember to restart the development server for the changes to take effect.
 
 ## Starting the Development Server
 
