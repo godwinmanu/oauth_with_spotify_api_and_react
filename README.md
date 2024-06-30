@@ -17,7 +17,7 @@ To install the necessary dependencies for the project, follow these steps in you
 1. Clone this repository on your local machine:
 
 ```bash
-  git clone https://github.com/your-user/spotify-oauth-project.git
+  git clone https://github.com/godwinmanu/oauth_with_spotify_api_and_react.git
 ```
 
 2. Navigate to the project directory :
